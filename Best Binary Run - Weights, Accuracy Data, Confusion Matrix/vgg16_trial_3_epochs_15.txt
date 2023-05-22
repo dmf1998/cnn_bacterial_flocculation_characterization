@@ -1,0 +1,9 @@
+Test accuracy: 0.82
+Classification Error: 0.18
+False Alarm Rate: 0.19
+Miss Rate: 0.17
+Recall: 0.83
+Precision: 0.81
+Confusion Matrix:
+[[30  6]
+ [ 7 29]]
